@@ -25,11 +25,12 @@ date_format = "Jan 2006"
   date_start = "2018-10-01"
   date_end = "2021-09-31"
   description = "Working With EDF Energy"
-  Responsibilities include:
+  Responsibilities =
   
   * Analysing Offshore Wind Operation and Maintenance Data
   * Degradation Modelling and Reliability Analysis of Offshore Wind Farms 
   * Optimizing the O&M Procedure for Offshore Wind Farms
+  
   """
 
 [[experience]]
