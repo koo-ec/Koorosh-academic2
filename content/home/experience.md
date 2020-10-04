@@ -20,13 +20,7 @@ date_format = "Jan 2006"
   location = "Kingston upon Hull"
   date_start = "2018-10-01"
   date_end = ""
-  description = """Hello""".
-  Responsibilities include:
-  
-  * Analysing Offshore Wind Operation and Maintenance Data
-  * Degradation Modelling and Reliability Analysis of Offshore Wind Farms 
-  * Optimizing the O&M Procedure for Offshore Wind Farms
-  """
+  description = """ """
 
 [[experience]]
   title = "Research Asistant"
