@@ -24,7 +24,7 @@ date_format = "Jan 2006"
   location = "Kingston upon Hull"
   date_start = "2018-10-01"
   date_end = ""
-  description = """
+  description = ""
   Responsibilities include:
   
   * Analysing Offshore Wind Operation and Maintenance Data
