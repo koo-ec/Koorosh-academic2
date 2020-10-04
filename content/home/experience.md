@@ -1,12 +1,8 @@
 +++
-# Experience widget.
-widget = "experience"  # See https://sourcethemes.com/academic/docs/page-builder/
+widget = "experience"
 headless = true  # This file represents a page section.
-active = true  # Activate this widget? true/false
-weight = 40  # Order that this section will appear.
 
-title = "Experience"
-subtitle = ""
+# ... Put Your Section Options Here (title etc.) ...
 
 # Date format for experience
 #   Refer to https://sourcethemes.com/academic/docs/customization/#date-format
@@ -18,23 +14,27 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "Research Asistant"
-  company = "University of Hull"
-  company_url = "https://www.hull.ac.uk/"
-  location = "Kingston upon Hull"
-  date_start = "2018-10-01"
-  date_end = "2021-09-31"
-  description = "Working With EDF Energy"
+  title = "CEO"
+  company = "GenCoin"
+  company_url = ""
+  location = "California"
+  date_start = "2017-01-01"
+  date_end = ""
+  description = """
+  Responsibilities include:
   
+  * Analysing
+  * Modelling
+  * Deploying
   """
 
 [[experience]]
-  title = "Research Asistant"
-  company = "UNINOVA - Instituto de Desenvolvimento de Novas Tecnologias"
+  title = "Professor"
+  company = "University X"
   company_url = ""
-  location = "Lisbon, Portugal"
-  date_start = "2016-12-01"
-  date_end = "2018-06-31"
-  description = """I was working on Safety modelling of autonomous drones and their risk-based mission avoidance system."""
+  location = "California"
+  date_start = "2016-01-01"
+  date_end = "2016-12-31"
+  description = """Taught electronic engineering and researched semiconductor physics."""
 
 +++
