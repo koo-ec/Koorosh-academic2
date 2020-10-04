@@ -23,8 +23,8 @@ date_format = "Jan 2006"
   company_url = "https://www.hull.ac.uk/"
   location = "Kingston upon Hull"
   date_start = "2018-10-01"
-  date_end = ""
-  description = ""
+  date_end = "2021-09-31"
+  description = "Working With EDF Energy"
   Responsibilities include:
   
   * Analysing Offshore Wind Operation and Maintenance Data
