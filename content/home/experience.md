@@ -25,8 +25,6 @@ date_format = "Jan 2006"
   date_start = "2018-10-01"
   date_end = "2021-09-31"
   description = "Working With EDF Energy"
-  
-  """
 
 [[experience]]
   title = "Research Asistant"
@@ -35,6 +33,6 @@ date_format = "Jan 2006"
   location = "Lisbon, Portugal"
   date_start = "2016-12-01"
   date_end = "2018-06-31"
-  description = """I was working on Safety modelling of autonomous drones and their risk-based mission avoidance system."""
+  description = "I was working on Safety modelling of autonomous drones and their risk-based mission avoidance system."
 
 +++
