@@ -98,7 +98,7 @@ address = {street = "24 Vermont Cresent, Worthing St.", city = "Kingston upon Hu
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
 # coordinates = {latitude = "37.4275", longitude = "-122.1697"}
-coordinates = {latitude = "53.770263", longitude = "0.367141"}
+coordinates = {latitude = "53.770263", longitude = "-0.36902"}
 
 # Directions for visitors to locate you.
 directions = "RBB, Room 420, Floor 4."
