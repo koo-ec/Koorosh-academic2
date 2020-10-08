@@ -58,7 +58,11 @@ subtitle = ""
 
   # Text color (true=light or false=dark).
   # text_color_light = true  
-  
+ 
+[[item]]
+title = "A hierarchical approach for dynamic fault trees solution through semi-Markov process"
+
+ 
 [advanced]
  # Custom CSS. 
  css_style = ""
