@@ -1,5 +1,5 @@
 ---
-title: "<p align="justify">Performance Evaluation and Design for Variable Threshold Alarm Systems through Semi-Markov Process</p>"
+title: "Performance Evaluation and Design for Variable Threshold Alarm Systems through Semi-Markov Process"
 authors:
 - admin
 - Mahdi Bahar Gogani
