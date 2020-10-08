@@ -2,11 +2,15 @@
 title: "Performance Evaluation and Design for Variable Threshold Alarm Systems through Semi-Markov Process"
 authors:
 - admin
+- Mahdi Bahar Gogani
+- SohagKabir
+- Mahdi Aliyari Shoorehdeli 
+- Mostafa Yari
 author_notes:
 - "Equal contribution"
 - "Equal contribution"
-date: "2015-09-01T00:00:00Z"
-doi: ""
+date: "2020"
+doi: "https://doi.org/10.1016/j.isatra.2019.08.015"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2017-01-01T00:00:00Z"
@@ -18,13 +22,13 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Journal of Source Themes, 1*(1)"
+publication: "*ISA Transactions, 97*(1)"
 publication_short: ""
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: In large industrial systems, alarm management is one of the most important issues to improve the safety and efficiency of systems in practice. Operators of such systems often have to deal with a numerous number of simultaneous alarms. Different kinds of thresholding or filtration are applied to decrease alarm nuisance and improve performance indices, such as Averaged Alarm Delay (ADD), Missed Alarm and False Alarm Rates (MAR and FAR). Among threshold-based approaches, variable thresholding methods are well-known for reducing the alarm nuisance and improving the performance of the alarm system. However, the literature suffers from the lack of an appropriate method to assess performance parameters of Variable Threshold Alarm Systems (VTASs). This study introduces two types of variable thresholding and proposes a novel approach for performance assessment of VTASs using Priority-AND gate and semi-Markov process. Application of semi-Markov process allows the proposed approach to consider industrial measurements with non-Gaussian distributions. In addition, the paper provides a genetic algorithm based optimized design process for optimal parameter setting to improve performance indices. The effectiveness of the proposed approach is illustrated via three numerical examples and through a comparison with previous studies.
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: This study introduces two types of variable thresholding and proposes a novel approach for performance assessment of VTASs using Priority-AND gate and semi-Markov process. Application of semi-Markov process allows the proposed approach to consider industrial measurements with non-Gaussian distributions. In addition, the paper provides a genetic algorithm based optimized design process for optimal parameter setting to improve performance indices.
 
 tags:
 - Source Themes
@@ -33,7 +37,7 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url_pdf: http://arxiv.org/pdf/1512.04133v1
+url_pdf: https://doi.org/10.1016/j.isatra.2019.08.015
 url_code: ''
 url_dataset: ''
 url_poster: ''
