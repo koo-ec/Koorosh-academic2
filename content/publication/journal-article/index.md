@@ -31,7 +31,7 @@ abstract: <p align="justify">In large industrial systems, alarm management is on
 summary: <p align="justify">This study introduces two types of variable thresholding and proposes a novel approach for performance assessment of VTASs using Priority-AND gate and semi-Markov process. Application of semi-Markov process allows the proposed approach to consider industrial measurements with non-Gaussian distributions. In addition, the paper provides a genetic algorithm based optimized design process for optimal parameter setting to improve performance indices.</p>
 
 tags:
-- Source Themes
+- Alarm Systems
 featured: false
 
 # links:
