@@ -1,5 +1,5 @@
 ---
-title: Publications
+title: A hierarchical approach for dynamic fault trees solution through semi-Markov process
 
 # View.
 #   1 = List
