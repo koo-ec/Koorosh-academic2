@@ -2,6 +2,7 @@
 title: "A Hierarchical Approach for Dynamic Fault Trees Solution Through Semi-Markov Process"
 authors:
 - admin
+- Gholamreza Latif-Shabgahi
 author_notes:
 - corresponding author
 date: "2020"
