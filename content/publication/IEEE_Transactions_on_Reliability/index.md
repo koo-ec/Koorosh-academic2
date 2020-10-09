@@ -3,6 +3,7 @@ title: "A Hierarchical Approach for Dynamic Fault Trees Solution Through Semi-Ma
 authors:
 - admin
 author_notes:
+- corresponding author
 date: "2020"
 doi: "https://doi.org/10.1016/j.isatra.2019.08.015"
 
