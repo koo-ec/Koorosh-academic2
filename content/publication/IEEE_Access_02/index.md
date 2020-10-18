@@ -33,6 +33,7 @@ summary: <p align="justify">This study proposes a novel approach by using Machin
 
 tags:
 - AI and Safety
+- Fault Tree
 featured: false
 
 # links:
